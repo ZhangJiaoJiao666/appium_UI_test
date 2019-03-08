@@ -1,0 +1,10 @@
+2019-03-07 11:40:47,038 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:41:00,016 - BasePage - INFO - 文本内容为：330349143@qq.com
+2019-03-07 11:41:05,415 - BasePage - INFO - 文本内容为：
+2019-03-07 11:41:08,778 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:41:19,588 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:41:19,589 - BasePage - ERROR - 未找到文本'NoneType' object has no attribute 'text'
+2019-03-07 11:41:19,982 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:41:19,982 - HomePage - INFO - 登录成功
+2019-03-07 11:41:20,301 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:41:21,386 - LoginTest - ERROR - 断言判断失败

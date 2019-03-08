@@ -1,0 +1,42 @@
+2019-03-07 20:02:21,929 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:23,215 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:27,279 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:33,369 - BasePage - INFO - 文本内容为：2019.03.07,18:38
+2019-03-07 20:02:39,307 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:39,708 - AddbmlTest - INFO - 添加备忘录成功
+2019-03-07 20:02:46,223 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:46,888 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:53,254 - BasePage - INFO - 文本内容为：this is the second bwl6
+2019-03-07 20:02:56,875 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:02:57,311 - AddbmlTest - INFO - 第二种添加备忘录成功
+2019-03-07 20:03:11,541 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:03:17,527 - BasePage - INFO - 文本内容为：pppp
+2019-03-07 20:03:17,559 - BasePage - INFO - 键盘操作回车成功：
+2019-03-07 20:03:18,831 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:03:19,048 - SearchTest - INFO - 搜索成功
+2019-03-07 20:03:34,102 - BasePage - INFO - 长按成功
+2019-03-07 20:03:35,011 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:03:37,725 - BasePage - INFO - 成功从滑动
+2019-03-07 20:03:38,367 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:03:52,566 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:03:53,953 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:00,171 - BasePage - INFO - 成功从滑动
+2019-03-07 20:04:02,172 - HomePage - INFO - 鼠标左滑成功
+2019-03-07 20:04:02,714 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:04,996 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:21,355 - BasePage - INFO - 长按成功
+2019-03-07 20:04:22,857 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:25,174 - DeleteTest - ERROR - 删除失败
+2019-03-07 20:04:25,545 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:27,288 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:29,269 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:30,355 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:31,423 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:49,917 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:04:50,246 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:05:00,949 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:05:00,949 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 20:05:01,467 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:05:12,461 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:05:12,461 - BasePage - ERROR - 未找到内容，清除失败'NoneType' object has no attribute 'clear'
+2019-03-07 20:05:13,002 - BasePage - INFO - 截到图保存到文件夹/screenshots中  

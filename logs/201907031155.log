@@ -1,0 +1,12 @@
+2019-03-07 11:55:50,072 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:56:01,139 - BasePage - ERROR - 未找到内容，清除失败must be str, not WebElement
+2019-03-07 11:56:01,670 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:56:06,994 - BasePage - INFO - 文本内容为：330349143@qq.com
+2019-03-07 11:56:12,282 - BasePage - INFO - 文本内容为：
+2019-03-07 11:56:15,671 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:56:27,043 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:56:27,044 - BasePage - ERROR - 未找到文本'NoneType' object has no attribute 'text'
+2019-03-07 11:56:27,760 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:56:27,760 - HomePage - INFO - 登录成功
+2019-03-07 11:56:28,039 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:56:29,062 - LoginTest - INFO - 断言判断登录成功

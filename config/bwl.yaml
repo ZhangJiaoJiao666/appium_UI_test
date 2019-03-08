@@ -1,0 +1,13 @@
+#this is config file,only store browser type and server
+
+deviceName: 127.0.0.1:62001
+platformName: Android
+platformVersion: 5.1.1
+sessionOverride: True
+app: E:\appium_UI_test_memo\app\znbwl.apk
+appPackage: com.pdswp.su.smartcalendar
+appActivity: .activity.SmartNoteActivity
+noReset: True
+ip: 127.0.0.1
+port: 4723
+

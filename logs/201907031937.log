@@ -1,0 +1,10 @@
+2019-03-07 19:37:55,790 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 19:37:57,024 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 19:37:59,451 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 19:38:05,896 - BasePage - INFO - 文本内容为：2019.03.07,18:38
+2019-03-07 19:38:11,286 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 19:38:11,360 - AddbmlTest - ERROR - 添加备忘录失败！
+2019-03-07 19:38:27,440 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 19:38:27,440 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 19:38:27,877 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 19:38:31,086 - BasePage - INFO - 鼠标成功单击操作

@@ -1,0 +1,5 @@
+2019-03-07 18:58:17,236 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 18:58:17,805 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 18:58:28,479 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 18:58:28,479 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 18:58:28,936 - BasePage - INFO - 截到图保存到文件夹/screenshots中  

@@ -1,0 +1,10 @@
+2019-03-07 11:34:05,461 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:34:19,612 - BasePage - INFO - 文本内容为：330349143@qq.com
+2019-03-07 11:34:24,913 - BasePage - INFO - 文本内容为：
+2019-03-07 11:34:28,312 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:34:30,439 - BasePage - ERROR - 未找到文本Message: An element could not be located on the page using the given search parameters.
+
+2019-03-07 11:34:30,989 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 11:34:30,989 - HomePage - INFO - 登录成功
+2019-03-07 11:34:31,314 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 11:34:32,491 - LoginTest - ERROR - 断言判断失败

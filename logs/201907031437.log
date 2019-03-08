@@ -1,0 +1,8 @@
+2019-03-07 14:37:31,394 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 14:37:32,910 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 14:37:34,752 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 14:37:37,763 - BasePage - ERROR - 未找到内容，清除失败must be str, not WebElement
+2019-03-07 14:37:38,159 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 14:37:43,567 - BasePage - INFO - 文本内容为：Lisa
+2019-03-07 14:37:46,723 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 14:37:47,555 - BasePage - INFO - 鼠标成功单击操作

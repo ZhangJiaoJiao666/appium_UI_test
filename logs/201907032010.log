@@ -1,0 +1,11 @@
+2019-03-07 20:10:50,433 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:10:51,754 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:10:53,849 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:10:56,741 - BasePage - ERROR - 未找到内容，清除失败must be str, not WebElement
+2019-03-07 20:10:57,447 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:11:02,718 - BasePage - INFO - 文本内容为：Memo
+2019-03-07 20:11:05,885 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:11:06,259 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:11:09,823 - ModifyTest - INFO - 修改成功！
+2019-03-07 20:11:16,049 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:11:17,894 - BasePage - INFO - 鼠标成功单击操作

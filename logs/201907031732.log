@@ -1,0 +1,17 @@
+2019-03-07 17:33:12,643 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:33:13,808 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:33:16,347 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:33:25,146 - BasePage - INFO - 文本内容为：zhang
+2019-03-07 17:33:31,368 - BasePage - INFO - 文本内容为：15935156@163.com
+2019-03-07 17:33:37,191 - BasePage - INFO - 文本内容为：
+2019-03-07 17:33:39,812 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:33:56,168 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:33:56,169 - BasePage - ERROR - 未找到文本'NoneType' object has no attribute 'text'
+2019-03-07 17:33:57,031 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:33:57,032 - RegistTest - ERROR - 注册失败！
+2019-03-07 17:34:08,187 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:34:08,188 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 17:34:09,105 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:34:20,123 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:34:20,123 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 17:34:21,033 - BasePage - INFO - 截到图保存到文件夹/screenshots中  

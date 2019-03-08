@@ -1,0 +1,11 @@
+2019-03-07 17:03:36,201 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:03:51,092 - BasePage - INFO - 文本内容为：330349143@qq.com
+2019-03-07 17:03:56,849 - BasePage - INFO - 文本内容为：
+2019-03-07 17:04:00,459 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:04:03,033 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:04:04,325 - LoginTest - ERROR - 登录失败
+2019-03-07 17:04:04,841 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 17:04:16,053 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:04:16,053 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 17:04:17,010 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 17:04:18,037 - BasePage - INFO - 鼠标成功单击操作

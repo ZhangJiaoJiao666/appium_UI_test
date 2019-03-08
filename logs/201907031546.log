@@ -1,0 +1,10 @@
+2019-03-07 15:47:05,497 - BasePage - INFO - 长按成功
+2019-03-07 15:47:06,825 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 15:47:08,027 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 15:47:10,000 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 15:47:12,291 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 15:47:13,762 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 15:47:24,757 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 15:47:24,757 - BasePage - ERROR - 未找到文本'NoneType' object has no attribute 'text'
+2019-03-07 15:47:25,637 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 15:47:25,637 - Delete - INFO - 删除成功！

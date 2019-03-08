@@ -1,0 +1,12 @@
+2019-03-07 20:21:37,741 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:21:39,051 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:21:43,585 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:21:51,418 - BasePage - INFO - 文本内容为：Lis
+2019-03-07 20:21:54,623 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:21:55,075 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 20:22:06,218 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:22:06,218 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 20:22:06,883 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:22:17,455 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 20:22:17,457 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 20:22:18,116 - BasePage - INFO - 截到图保存到文件夹/screenshots中  

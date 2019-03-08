@@ -1,0 +1,19 @@
+2019-03-07 13:58:51,079 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 13:59:05,502 - BasePage - INFO - 文本内容为：330349143@qq.com
+2019-03-07 13:59:11,006 - BasePage - INFO - 文本内容为：
+2019-03-07 13:59:14,350 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 13:59:14,350 - HomePage - INFO - 登录成功
+2019-03-07 13:59:24,990 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 13:59:24,990 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 13:59:25,466 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 13:59:36,683 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 13:59:36,683 - BasePage - ERROR - 未找到文本'NoneType' object has no attribute 'text'
+2019-03-07 13:59:37,174 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 13:59:37,174 - LoginTest - ERROR - 断言判断失败
+2019-03-07 13:59:45,601 - BasePage - INFO - 鼠标成功单击操作
+2019-03-07 13:59:56,411 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 13:59:56,411 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 13:59:57,036 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 14:00:07,725 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
+2019-03-07 14:00:07,725 - BasePage - ERROR - 未找到元素，鼠标单击失败'NoneType' object has no attribute 'click'
+2019-03-07 14:00:08,327 - BasePage - INFO - 截到图保存到文件夹/screenshots中  
